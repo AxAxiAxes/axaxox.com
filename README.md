@@ -29,6 +29,16 @@ hosting a static, client-side-only preview of the concept named after it.
 No DNS, hosting-account, payment, or legal action has been taken from
 repository access — this is a static GitHub Pages publish only.
 
+## License / privacy note
+
+This repository is public (a GitHub/GitHub Pages requirement for a free
+static site), which means the page's HTML/JS/CSS is technically viewable
+and copyable by any visitor's browser — this is inherent to how the open
+web works and is not something any repository or hosting setting can
+prevent. See `LICENSE` for the copyright/authorship terms that apply
+regardless: viewing is permitted, but redistribution or derivative
+republishing is not licensed.
+
 ## Before further building here
 
 1. Confirm the domain's product purpose, owner, privacy classification, budget, and operating model beyond this preview (see the portfolio principle in `DOMAIN_PORTFOLIO.md`).
